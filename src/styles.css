@@ -1,0 +1,22 @@
+.button{
+    padding: 15px;
+    background-color:coral;
+    color: white;
+    border-radius: 10px;
+
+}
+
+
+.displayArea{
+    background-color: black;
+    padding: 0.05em;
+    padding-left: 150px; 
+    padding-right: 150px; 
+    border-radius: 20px;
+}
+
+
+.piza{
+    width:100px;
+
+}
